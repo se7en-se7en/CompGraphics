@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Pyramid.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Pyramid.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\libs\vcpkg\vcpkg\installed\x86-windows\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+C:\OneDrive\Main\School\Computer Graphics\Final Project\M4 Movement milestone\Pyramid\Pyramid.cpp(155,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\OneDrive\Main\School\Computer Graphics\Final Project\M4 Movement milestone\Pyramid\Pyramid.cpp(161,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OneDrive\Main\School\Computer Graphics\Final Project\M4 Movement milestone\Pyramid\Pyramid.cpp(163,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OneDrive\Main\School\Computer Graphics\Final Project\M4 Movement milestone\Pyramid\Pyramid.cpp(165,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OneDrive\Main\School\Computer Graphics\Final Project\M4 Movement milestone\Pyramid\Pyramid.cpp(167,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OneDrive\Main\School\Computer Graphics\Final Project\M4 Movement milestone\Pyramid\Pyramid.cpp(201,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Pyramid.vcxproj -> C:\OneDrive\Main\School\Computer Graphics\Final Project\M4 Movement milestone\Debug\Pencil 3D Scene.exe
